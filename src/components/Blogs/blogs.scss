@@ -1,0 +1,44 @@
+.blogs{
+	.row{
+		gap: 20px;
+		flex-direction: column;
+	}
+	img{
+		width: 300px;
+		height: 200px;
+		object-fit: cover;
+	}
+	h3{
+		font-weight: 500;
+		font-size: 24px;
+	}
+	p{
+		margin: 20px 0;
+		height: 85px;
+		overflow: hidden;
+	}
+	.btn{
+		padding: 7px 15px;
+		width: 180px;
+	}
+	.blogs__item.row{
+		flex-direction: row;
+	}
+}
+
+@media all and (max-width: 768px) {
+	.blogs{
+		.row{
+			align-items: flex-start;
+		}
+		.blogs__item {
+			width: 300px;
+		}
+		.blogs__item.row{
+			flex-direction: column;
+		}
+		p{
+			height: auto;
+		}
+	}
+}

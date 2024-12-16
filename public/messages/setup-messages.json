@@ -1,0 +1,142 @@
+{
+	"uk": {
+		"id": 1,
+		"path": "/messages/img/uk.html",
+		"title": "(Ukrainia/Українською)",
+		"image": "/messages/img/1.jpg",
+		"btn": "Читати"
+	},
+	"en": {
+		"id": 2,
+		"path": "/messages/img/eng.html",
+		"title": "My Biography<br>(English/Англійською)",
+		"image": "/messages/img/2.jpg",
+		"btn": "Read more"
+	},
+	"arab": {
+		"id": 3,
+		"path": "/messages/img/arab.html",
+		"title": "Arabic/Арабською",
+		"image": "/messages/img/3.jpg",
+		"btn": "اقرأ"
+	},
+	"bg": {
+		"id": 4,
+		"path": "/messages/img/bolg.html",
+		"title": "Моята биография<br>(Bulgarian/Болгарською)",
+		"image": "/messages/img/4.jpg",
+		"btn": "Прочетете"
+	},
+	"zh": {
+		"id": 5,
+		"path": "/messages/img/kitay.html",
+		"title": "我的传记<br>(Chinese/Китайською)",
+		"image": "/messages/img/5.jpg",
+		"btn": "阅读"
+	},
+	"cz": {
+		"id": 6,
+		"path": "/messages/img/chesk.html",
+		"title": "MŮJ BIOGRAF<br>(Czech/Чеською)",
+		"image": "/messages/img/6.jpg",
+		"btn": "Přečtěte si"
+	},
+	"fi": {
+		"id": 7,
+		"path": "/messages/img/finsk.html",
+		"title": "BIOGRAFIA<br>(Finnish/Фінською)",
+		"image": "/messages/img/7.jpg",
+		"btn": "Lue"
+	},
+	"fr": {
+		"id": 8,
+		"path": "/messages/img/franch.html",
+		"title": "MA BIOGRAPHIE<br>(French/Французькою)",
+		"image": "/messages/img/8.jpg",
+		"btn": "Lire"
+	},
+	"de": {
+		"id": 9,
+		"path": "/messages/img/germany.html",
+		"title": "MEINE BIOGRAPHIE<br>(German/Німецькою)",
+		"image": "/messages/img/9.jpeg",
+		"btn": "Lesen Sie"
+	},
+	"hu": {
+		"id": 10,
+		"path": "/messages/img/ugorsk.html",
+		"title": "ÉLETRAJZOM<br>(Hungarian/Угорською)",
+		"image": "/messages/img/10.jpg",
+		"btn": "Olvassa el"
+	},
+	"it": {
+		"id": 11,
+		"path": "/messages/img/ital.html",
+		"title": "ÉLETRAJZOM<br>(Italian  / Італійською)",
+		"image": "/messages/img/11.jpg",
+		"btn": "Leggi"
+	},
+	"ja": {
+		"id": 12,
+		"path": "/messages/img/japan.html",
+		"title": "私の経歴<br>(Japan / Японською)",
+		"image": "/messages/img/12.jpg",
+		"btn": "読む"
+	},
+	"la": {
+		"id": 13,
+		"path": "/messages/img/latin.html",
+		"title": "MANA BIOGRĀFIJA<br>(Latvian/Латиською)",
+		"image": "/messages/img/13.jpeg",
+		"btn": "Lasīt"
+	},
+	"lt": {
+		"id": 14,
+		"path": "/messages/img/litov.html",
+		"title": "MANO BIOGRAFIJA<br>(Lithuanian/Литовською)",
+		"image": "/messages/img/14.jpg",
+		"btn": "Skaityti"
+	},
+	"pl": {
+		"id": 15,
+		"path": "/messages/img/polsk.html",
+		"title": "MOJA BIOGRAFIA<br>(Polish/Польською)",
+		"image": "/messages/img/15.jpg",
+		"btn": "Czytaj"
+	},
+	"ro": {
+		"id": 16,
+		"path": "/messages/img/rumun.html",
+		"title": "BIOGRAFIA MEA<br>(Romanian/Румунською)",
+		"image": "/messages/img/16.jpeg",
+		"btn": "Citește"
+	},
+	"ru": {
+		"id": 17,
+		"path": "/messages/img/rus.html",
+		"title": "МОЯ БИОГРАФИЯ<br>(Russian/Російською)",
+		"image": "/messages/img/17.jpg",
+		"btn": "Читать"
+	},
+	"sk": {
+		"id": 18,
+		"path": "/messages/img/slovack.html",
+		"title": "MÔJ ŽIVOTOPIS<br>(Slovak/Словацькою)",
+		"image": "/messages/img/18.jpg",
+		"btn": "Prečítajte si"
+	},
+	"es": {
+		"id": 19,
+		"path": "/messages/img/ispan.html",
+		"title": "MI BIOGRAFÍA<br>(Spanish/Іспанською)",
+		"image": "/messages/img/19.jpg",
+		"btn": "Leer"
+	},
+	"sv": {
+		"id": 20,
+		"path": "/messages/img/shvedsk.html",
+		"title": "MIN BIOGRAFI<br>(Swedish/Шведською)",
+		"image": "/messages/img/20.jpg",
+		"btn": "Läs"
+	}
+}

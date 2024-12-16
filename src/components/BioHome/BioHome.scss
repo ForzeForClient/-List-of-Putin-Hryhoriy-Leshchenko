@@ -1,0 +1,25 @@
+.bio-home{
+	h2{
+		text-align: center;
+		margin-bottom: 40px;
+	}
+	.bio-home__wrapper{
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		gap: 15px;
+		margin-bottom: 40px;
+	}
+	.show-more{
+		font-size: 18px;
+		text-decoration: underline;
+		text-align: center;
+		cursor: pointer;
+	}
+	.btn{
+		height: 35px;
+		border: none;
+		padding: 0 10px;
+		margin: 0 auto;
+	}
+}

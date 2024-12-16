@@ -1,0 +1,48 @@
+.contacts{
+	.contacts__descr p{
+		color: rgb(100, 100, 100);
+		font-weight: 300;
+	}
+	.row{
+		justify-content: space-between;
+		gap: 20px;
+	}
+	.contacts__descr a{
+		display: block;
+		margin: 10px 0 20px 0 ;
+		color: black;
+		text-decoration: none;
+		font-size: 16px;
+	}
+	.contacts__map img{
+		height: 260px;
+	}
+}
+
+@media all and (max-width: 768px) {
+	.contacts{
+		.contacts__descr p{
+			color: rgb(100, 100, 100);
+			font-weight: 300;
+		}
+		.row{
+			justify-content: center;
+			gap: 20px;
+			flex-wrap: wrap;
+		}
+		.contacts__map img{
+			height: auto;
+			width: 85%;
+			margin: 0 auto;
+			display: block;
+		}
+	}
+}
+
+@media all and (max-width: 480px) {
+	.contacts{
+		.contacts__map img{
+			width: 100%;
+		}
+	}
+}

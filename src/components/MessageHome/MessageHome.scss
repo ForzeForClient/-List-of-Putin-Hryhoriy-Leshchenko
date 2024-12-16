@@ -1,0 +1,41 @@
+.msg-home{
+	h2{
+		font-size: 24px;
+		text-align: center;
+	}
+
+	.subtitle{
+		font-size: 26px;
+		font-weight: 700;
+		text-align: center;
+		margin-bottom: 30px;
+	}
+	.msg-home__wrapper{
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		gap: 15px;
+		margin-bottom: 40px;
+	}
+	.show-more{
+		font-size: 18px;
+		text-decoration: underline;
+		text-align: center;
+		cursor: pointer;
+	}
+}
+
+@media all and (max-width: 480px) {
+	.msg-home{
+		h2{
+			font-size: 22px;
+			text-align: center;
+		}
+	
+		.subtitle{
+			font-size: 22px;
+			font-weight: 700;
+			text-align: center;
+		}
+	}	
+}

@@ -1,0 +1,44 @@
+.additional{
+	.row{
+		align-items: flex-start;
+		justify-content: center;
+		gap: 20px;
+	}
+	.additional__part{
+		width: 100%;
+	}
+	.additional__part-title{
+		padding: 7px 15px;
+		background: rgb(0,216,61);
+		background: linear-gradient(180deg, rgba(0,216,61,1) 0%, rgba(3,153,72,1) 100%);
+		color: white;
+		font-size: 18px;
+		font-weight: 500;
+	}
+	.additional__part-content {
+		margin-top: 20px;
+	}
+	.additional__part-content ul{
+		padding-left: 35px;
+		padding-right: 15px;
+		display: flex;
+		flex-direction: column;
+		gap: 10px;
+	}
+	.additional__part-content .link{
+		text-decoration: none;
+		color: rgb(81, 81, 81);
+	}
+	.additional__part-content .link:hover{
+		color: black;
+	}
+}
+
+@media all and (max-width: 1024px) {
+	.additional{
+		.row{
+			gap: 30px;
+			flex-wrap: wrap;
+		}
+	}
+}

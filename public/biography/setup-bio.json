@@ -1,0 +1,142 @@
+{
+	"uk": {
+		"id": 1,
+		"path": "/biography/uk.html",
+		"title": "Моя біографія<br>(Ukrainia/Українською)",
+		"image": "/biography/bio.webp",
+		"btn": "Читати"
+	},
+	"en": {
+		"id": 2,
+		"path": "/biography/eng.html",
+		"title": "My Biography<br>(English/Англійською)",
+		"image": "/biography/bio.webp",
+		"btn": "Read more"
+	},
+	"da": {
+		"id": 3,
+		"path": "/biography/dansk.html",
+		"title": "Min biografi<br>(Dansh/Датською)",
+		"image": "/biography/bio.webp",
+		"btn": "Læs"
+	},
+	"bg": {
+		"id": 4,
+		"path": "/biography/bolg.html",
+		"title": "Моята биография<br>(Bulgarian/Болгарською)",
+		"image": "/biography/bio.webp",
+		"btn": "Прочетете"
+	},
+	"zh": {
+		"id": 5,
+		"path": "/biography/kitay.html",
+		"title": "我的传记<br>(Chinese/Китайською)",
+		"image": "/biography/bio.webp",
+		"btn": "阅读"
+	},
+	"cz": {
+		"id": 6,
+		"path": "/biography/chesk.html",
+		"title": "MŮJ BIOGRAF<br>(Czech/Чеською)",
+		"image": "/biography/bio.webp",
+		"btn": "Přečtěte si"
+	},
+	"fi": {
+		"id": 7,
+		"path": "/biography/finsk.html",
+		"title": "BIOGRAFIA<br>(Finnish/Фінською)",
+		"image": "/biography/bio.webp",
+		"btn": "Lue"
+	},
+	"fr": {
+		"id": 8,
+		"path": "/biography/franch.html",
+		"title": "MA BIOGRAPHIE<br>(French/Французькою)",
+		"image": "/biography/bio.webp",
+		"btn": "Lire"
+	},
+	"de": {
+		"id": 9,
+		"path": "/biography/germany.html",
+		"title": "MEINE BIOGRAPHIE<br>(German/Німецькою)",
+		"image": "/biography/bio.webp",
+		"btn": "Lesen Sie"
+	},
+	"hu": {
+		"id": 10,
+		"path": "/biography/ugorsk.html",
+		"title": "ÉLETRAJZOM<br>(Hungarian/Угорською)",
+		"image": "/biography/bio.webp",
+		"btn": "Olvassa el"
+	},
+	"it": {
+		"id": 11,
+		"path": "/biography/ital.html",
+		"title": "ÉLETRAJZOM<br>(Italian  / Італійською)",
+		"image": "/biography/bio.webp",
+		"btn": "Leggi"
+	},
+	"ja": {
+		"id": 12,
+		"path": "/biography/japan.html",
+		"title": "私の経歴<br>(Japan / Японською)",
+		"image": "/biography/bio.webp",
+		"btn": "読む"
+	},
+	"la": {
+		"id": 13,
+		"path": "/biography/latin.html",
+		"title": "MANA BIOGRĀFIJA<br>(Latvian/Латиською)",
+		"image": "/biography/bio.webp",
+		"btn": "Lasīt"
+	},
+	"lt": {
+		"id": 14,
+		"path": "/biography/litov.html",
+		"title": "MANO BIOGRAFIJA<br>(Lithuanian/Литовською)",
+		"image": "/biography/bio.webp",
+		"btn": "Skaityti"
+	},
+	"pl": {
+		"id": 15,
+		"path": "/biography/polsk.html",
+		"title": "MOJA BIOGRAFIA<br>(Polish/Польською)",
+		"image": "/biography/bio.webp",
+		"btn": "Czytaj"
+	},
+	"ro": {
+		"id": 16,
+		"path": "/biography/rumun.html",
+		"title": "BIOGRAFIA MEA<br>(Romanian/Румунською)",
+		"image": "/biography/bio.webp",
+		"btn": "Citește"
+	},
+	"ru": {
+		"id": 17,
+		"path": "/biography/rus.html",
+		"title": "МОЯ БИОГРАФИЯ<br>(Russian/Російською)",
+		"image": "/biography/bio.webp",
+		"btn": "Читать"
+	},
+	"sk": {
+		"id": 18,
+		"path": "/biography/slovack.html",
+		"title": "MÔJ ŽIVOTOPIS<br>(Slovak/Словацькою)",
+		"image": "/biography/bio.webp",
+		"btn": "Prečítajte si"
+	},
+	"es": {
+		"id": 19,
+		"path": "/biography/ispan.html",
+		"title": "MI BIOGRAFÍA<br>(Spanish/Іспанською)",
+		"image": "/biography/bio.webp",
+		"btn": "Leer"
+	},
+	"sv": {
+		"id": 20,
+		"path": "/biography/shvedsk.html",
+		"title": "MIN BIOGRAFI<br>(Swedish/Шведською)",
+		"image": "/biography/bio.webp",
+		"btn": "Läs"
+	}
+}

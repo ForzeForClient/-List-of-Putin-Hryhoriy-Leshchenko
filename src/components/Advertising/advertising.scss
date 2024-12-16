@@ -1,0 +1,36 @@
+.advertising{
+	img{
+		width: 100%;
+	}
+	.row{
+		gap: 80px;
+	}
+	.advertising__part{
+		width: 50%;
+	}
+	h2{
+		font-size: 32px;
+		font-weight: 500;
+		margin-bottom: 30px;
+	}
+	.link{
+		padding: 7px 15px;
+		width: 200px;
+		margin-top: 30px;
+	}
+	p{
+		margin: 20px 0;
+	}
+}
+
+@media all and (max-width: 768px) {
+	.advertising{
+		.row{
+			gap: 40px;
+			flex-wrap: wrap;
+		}
+		.advertising__part{
+			width: 100%;
+		}
+	}
+}

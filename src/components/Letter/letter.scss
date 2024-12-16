@@ -1,0 +1,32 @@
+.letter{
+	h2{
+		margin-top: 30px;
+	}
+	img{
+		width: 50%;
+		display: block;
+		margin: 0 auto;
+	}
+	h2{
+		text-align: center;
+	}
+	embed{
+		width: 100%;
+		height: 540px;
+	}
+}
+
+@media all and (max-width: 768px) {
+	.letter{
+		img{
+			width: 90%;
+		}
+		h2{
+			font-size: 26px;
+		}
+		iframe{
+			width: 100%;
+			height: 540px;
+		}
+	}
+}
