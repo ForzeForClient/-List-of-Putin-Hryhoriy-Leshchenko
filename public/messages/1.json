@@ -1,0 +1,141 @@
+{
+	"uk": {
+		"id": 1,
+		"title": "Як народився задум книги «Список Путіна»:",
+		"subTitle": "КИЇВСЬКІ ЧИНОВНИКИ! ПРОШУ, НЕ КОПІЮЙТЕ РАШИСТІВ! <br />КОЛИ НЕ ТЕРПИТЬСЯ ВОЮВАТИ, ВОЮЙТЕ з ОКУПАНТАМИ, а НЕ З УКРАЇНСЬКИМИ БІЖЕНЦЯМИ та ПЕНСІОНЕРАМИ – БЕЗЗУБИМ ДІДОМ і БАБУСЕЮ-ІНВАЛІДОМ з ЦІПКОМ!",
+		"text": "Шановні депутати і співробітники Київської міської ради та КМДА! <br> Ректор Національної академії образотворчого мистецтва і архітектури (НАОМА, м. Київ, Україна) пан Олександр Петрович Цугорка подав до  суду заяву про виселення зі службової квартири двох пенсіонерів, мене і моєї дружини, тільки за те, що ми там не проживаємо... ",
+		"image": "/messages/img/1.jpg"
+	},
+	"en": {
+		"id": 2,
+		"title": "How the idea for the book 'Putin's List' was born",
+		"subTitle": "KYIV CITY AUTHORITIES! <br/> DO NOT TAKE AWAY HOUSING FROM UKRAINIAN REFUGEES! <br/>DO NOT COPY RUSSIAN OFFICIALS!",
+		"text": "And therefore never send to know for whom the bell tolls; it tolls for thee (Ernest Hemingway) Kyiv authorities have gone to court to evict two refugees from the war in Ukraine from their apartment. My wife and I are being evicted because we do not reside in Kyiv. We are in Canada under a program to help Ukrainians during the war. We did not want to leave Ukraine. We were saving our pregnant daughter. My daughter saw the atrocities of the Russian military in Bucha…",
+		"image": "/messages/img/2.jpg"
+	},
+	"arab": {
+		"id": 3,
+		"title": "كيف ولدت فكرة كتاب 'قائمة بوتين':",
+		"subTitle": "سلطات مدينة كييف!<br/>    لا تأخذوا المساكن من اللاجئين الأوكرانيين!<br/>            لا تقلدوا المسؤولين الروس!",
+		"text": "ذهبت سلطات كييف إلى المحكمة لإخلاء شقق اثنين من اللاجئين من الحرب في أوكرانيا. تقوم سلطات كييف بطردنا من شقتنا لأننا لا نقيم في كييف.  نحن في كندا في إطار برنامج لمساعدة الأوكرانيين خلال الحرب. لم نكن نريد مغادرة أوكرانيا. كنا ننقذ ابنتنا الحامل. رأت ابنتي فظائع الجيش الروسي في بوتشا.",
+		"image": "/messages/img/3.jpg"
+	},
+	"bg": {
+		"id": 4,
+		"title": "Как се ражда идеята за книгата 'Списъкът на Путин':",
+		"subTitle": "КИЕВСКИТЕ ВЛАСТИ!<br/>НЕ ОТНЕМАЙТЕ ЖИЛИЩАТА НА УКРАИНСКИТЕ БЕЖАНЦИ!<br/>НЕ ПОДРАЖАВАЙТЕ НА РУСКИТЕ ЧИНОВНИЦИ!",
+		"text": "Властите в Киев са се обърнали към съда, за да изселят апартаментите на двама бежанци от войната в Украйна. Киевските власти ни изселват от апартамента ни, защото не живеем в Киев. Намираме се в Канада по програма за подпомагане на украинците по време на войната. Не сме искали да напускаме Украйна. Спасявахме бременната си дъщеря. Дъщеря ми видя зверствата на руските военни в Буча…",
+		"image": "/messages/img/4.jpg"
+	},
+	"zh": {
+		"id": 5,
+		"title": "普京的名单》一书的创意是如何诞生的？",
+		"subTitle": "基辅市政府：<br/> 不要剥夺乌克兰难民的住房！<br/> 不要抄袭俄罗斯官员",
+		"text": "基辅当局已向法院起诉，要求驱逐两名乌克兰战争难民的公寓。基辅当局要将我们驱逐出公寓，因为我们不住在基辅。我们是根据一项在战争期间帮助乌克兰人的计划来到加拿大的。我们不想离开乌克兰。我们是为了救我们怀孕的女儿。我女儿在基辅附近的布查镇目睹了俄罗斯军队的暴行。",
+		"image": "/messages/img/5.jpg"
+	},
+	"cz": {
+		"id": 6,
+		"title": "Jak se zrodil nápad na knihu Putinův seznam:",
+		"subTitle": "KYJEVSKÉ MĚSTSKÉ ÚŘADY!<br/>NEBERTE UKRAJINSKÝM UPRCHLÍKŮM BYDLENÍ!<br/>NEKOPÍRUJTE RUSKÉ ÚŘEDNÍKY!",
+		"text": "Kyjevské úřady se obrátily na soud, aby vystěhoval dva uprchlíky před válkou na Ukrajině. Kyjevské úřady nás vystěhovávají z našeho bytu, protože nemáme bydliště v Kyjevě. Jsme v Kanadě v rámci programu na pomoc Ukrajincům během války. Z Ukrajiny jsme odejít nechtěli. Zachraňovali jsme naši těhotnou dceru. Moje dcera viděla zvěrstva ruské armády ve městě Bucha u Kyjeva.",
+		"image": "/messages/img/6.jpg"
+	},
+	"fi": {
+		"id": 7,
+		"title": "Miten idea Putinin lista -kirjaan syntyi:",
+		"subTitle": "KIOVAN KAUPUNGIN VIRANOMAISET! <br/>ÄLKÄÄ VIEKÖ ASUNTOJA UKRAINALAISILTA PAKOLAISILTA! <br/>ÄLKÄÄ KOPIOIKO VENÄLÄISIÄ VIRKAMIEHIÄ!",
+		"text": "Kiovan viranomaiset ovat menneet oikeuteen häätääkseen kaksi pakolaista Ukrainan sodasta. Kiovan viranomaiset häätävät meidät asunnostamme, koska emme asu Kiovassa.  Olemme Kanadassa ohjelmassa, jonka tarkoituksena on auttaa ukrainalaisia sodan aikana. Emme halunneet lähteä Ukrainasta. Pelastimme raskaana olevaa tytärtämme. Tyttäreni näki venäläisten sotilaiden hirmutekoja Buchan kaupungissa lähellä Kiovaa…",
+		"image": "/messages/img/7.jpg"
+	},
+	"fr": {
+		"id": 8,
+		"title": "Comment est née l'idée du livre Putin's List:",
+		"subTitle": "AUTORITÉS DE LA VILLE DE KYIV !<br>NE PRIVEZ PAS LES RÉFUGIÉS UKRAINIENS DE LEUR LOGEMENT !<br>NE COPIEZ PAS LES FONCTIONNAIRES RUSSES!",
+		"text": "Les autorités de Kiev ont saisi la justice pour expulser deux réfugiés de la guerre en Ukraine. Les autorités de Kiev nous expulsent de notre appartement parce que nous ne résidons pas à Kiev. Nous sommes au Canada dans le cadre d'un programme d'aide aux Ukrainiens pendant la guerre. Nous ne voulions pas quitter l'Ukraine. Nous voulions sauver notre fille enceinte. Ma fille a vu les atrocités commises par l'armée russe dans la ville de Bucha, près de Kiev...",
+		"image": "/messages/img/8.jpg"
+	},
+	"de": {
+		"id": 9,
+		"title": "Comment est née l'idée du livre Putin's List:",
+		"subTitle": "AUTORITÉS DE LA VILLE DE KYIV !<br>NE PRIVEZ PAS LES RÉFUGIÉS UKRAINIENS DE LEUR LOGEMENT !<br>NE COPIEZ PAS LES FONCTIONNAIRES RUSSES!",
+		"text": "Les autorités de Kiev ont saisi la justice pour expulser deux réfugiés de la guerre en Ukraine. Les autorités de Kiev nous expulsent de notre appartement parce que nous ne résidons pas à Kiev. Nous sommes au Canada dans le cadre d'un programme d'aide aux Ukrainiens pendant la guerre. Nous ne voulions pas quitter l'Ukraine. Nous voulions sauver notre fille enceinte. Ma fille a vu les atrocités commises par l'armée russe dans la ville de Bucha, près de Kiev...",
+		"image": "/messages/img/9.jpeg"
+	},
+	"hu": {
+		"id": 10,
+		"title": "Hogyan született meg a Putyin listája című könyv ötlete:",
+		"subTitle": "KIJEV VÁROS HATÓSÁGAI!<br>NE VEGYÉK EL AZ UKRÁN MENEKÜLTEKTŐL A LAKHATÁST!<br>NE MÁSOLJÁK AZ OROSZ HIVATALNOKOKAT!",
+		"text": "A kijevi hatóságok bírósághoz fordultak, hogy kilakoltassanak két menekültet az ukrajnai háború elől. A kijevi hatóságok kilakoltatnak minket a lakásunkból, mert nem Kijevben lakunk. Kanadában vagyunk egy program keretében, amely a háború alatt az ukránokat segíti. Nem akartuk elhagyni Ukrajnát. A terhes lányunkat mentettük. A lányom látta az orosz katonaság kegyetlenkedéseit a Kijev melletti Buka városában...",
+		"image": "/messages/img/10.jpg"
+	},
+	"it": {
+		"id": 11,
+		"title": "Come è nata l'idea del libro La lista di Putin:",
+		"subTitle": "AUTORITÀ DELLA CITTÀ DI KIEV!<br>NON TOGLIETE L'ALLOGGIO AI RIFUGIATI UCRAINI!<br>NON COPIATE I FUNZIONARI RUSSI!",
+		"text": "Le autorità di Kiev si sono rivolte al tribunale per sfrattare due rifugiati dalla guerra in Ucraina. Le autorità di Kiev ci stanno sfrattando dal nostro appartamento perché non risiediamo a Kiev. Ci troviamo in Canada nell'ambito di un programma di aiuto agli ucraini durante la guerra. Non volevamo lasciare l'Ucraina. Stavamo salvando nostra figlia incinta. Mia figlia ha visto le atrocità dell'esercito russo nella città di Bucha, vicino a Kiev...",
+		"image": "/messages/img/11.jpg"
+	},
+	"ja": {
+		"id": 12,
+		"title": "プーチンのリスト』のアイデアはいかにして生まれたか？",
+		"subTitle": "キエフ市当局！<br>ウクライナ難民から住居を奪うな！<br>ロシアの役人の真似をするな！",
+		"text": "キエフ当局は、ウクライナ戦争からの難民2人を立ち退かせるために裁判を起こしました。私たちはキエフに住んでいないため、キエフ当局は私たちのアパートを立ち退かせようとしています。私たちは、戦争中のウクライナ人を支援するプログラムに基づいてカナダにいます。私たちはウクライナを離れたくありませんでした。妊娠中の娘を守るためでした。娘はキエフ近郊のブチャという町でロシア軍の残虐行為を見ました...",
+		"image": "/messages/img/12.jpg"
+	},
+	"la": {
+		"id": 13,
+		"title": "Kā radās ideja par grāmatu \"Putina saraksts\":",
+		"subTitle": "KIJEVAS PILSĒTAS VARAS IESTĀDES!<br>NEATŅEMIET MĀJOKĻUS UKRAIŅU BĒGĻIEM!<br>NEKOPĒJIET KRIEVIJAS IERĒDŅUS!",
+		"text": "Kijevas varas iestādes ir vērsušās tiesā, lai izliktu no valsts divus bēgļus no kara Ukrainā. Kijevas iestādes mūs izliek no mūsu dzīvokļa, jo mēs nedzīvojam Kijevā. Mēs esam Kanādā saskaņā ar programmu, kas paredzēta, lai palīdzētu ukraiņiem kara laikā. Mēs negribējām pamest Ukrainu. Mēs glābām savu grūtnieci meitu. Mana meita redzēja Krievijas armijas zvērības Bučas pilsētā netālu no Kijevas...",
+		"image": "/messages/img/13.jpeg"
+	},
+	"lt": {
+		"id": 14,
+		"title": "Kaip gimė knygos \"Putino sąrašas\" idėja:",
+		"subTitle": "KIJEVO MIESTO VALDŽIA!<br>NEATIMKITE BŪSTO IŠ UKRAINIEČIŲ PABĖGĖLIŲ!<br>NEKOPIJUOKITE RUSŲ PAREIGŪNŲ!",
+		"text": "Kijevo valdžia kreipėsi į teismą, kad iškeldintų du karo Ukrainoje pabėgėlius. Kijevo valdžia mus iškeldina iš buto, nes mes negyvename Kijeve. Esame Kanadoje pagal programą, skirtą padėti ukrainiečiams karo metu. Nenorėjome išvykti iš Ukrainos. Gelbėjome savo nėščią dukrą. Mano dukra matė rusų kariškių žiaurumus Bučos mieste netoli Kijevo.",
+		"image": "/messages/img/14.jpg"
+	},
+	"pl": {
+		"id": 15,
+		"title": "Jak narodził się pomysł na książkę \"Lista Putina\":",
+		"subTitle": "WŁADZE MIASTA KIJOWA!<br>NIE ODBIERAJCIE MIESZKAŃ UKRAIŃSKIM UCHODŹCOM!<br>NIE KOPIUJ ROSYJSKICH URZĘDNIKÓW!",
+		"text": "Władze Kijowa poszły do sądu, aby eksmitować dwóch uchodźców z wojny w Ukrainie. Władze Kijowa eksmitują nas z naszego mieszkania, ponieważ nie mieszkamy w Kijowie. Jesteśmy w Kanadzie w ramach programu pomocy Ukraińcom w czasie wojny. Nie chcieliśmy opuszczać Ukrainy. Ratowaliśmy naszą ciężarną córkę. Moja córka widziała okrucieństwa rosyjskiego wojska w mieście Bucza pod Kijowem...",
+		"image": "/messages/img/15.jpg"
+	},
+	"ro": {
+		"id": 16,
+		"title": "Cum s-a născut ideea pentru cartea \"Lista lui Putin\":",
+		"subTitle": "AUTORITĂȚILE ORAȘULUI KYIV!<br>NU LUAȚI LOCUINȚELE REFUGIAȚILOR UCRAINENI!<br>NU COPIAȚI OFICIALII RUȘI!",
+		"text": "Autoritățile din Kiev s-au adresat instanței pentru a evacua doi refugiați din cauza războiului din Ucraina. Autoritățile din Kiev ne evacuează din apartamentul nostru deoarece nu locuim în Kiev. Suntem în Canada în cadrul unui program de ajutorare a ucrainenilor în timpul războiului. Nu am vrut să părăsim Ucraina. Ne-am salvat fiica însărcinată. Fiica mea a văzut atrocitățile armatei ruse în orașul Bucha de lângă Kiev.",
+		"image": "/messages/img/16.jpeg"
+	},
+	"ru": {
+		"id": 17,
+		"title": "Как родился замысел книги \"Список Путина\":",
+		"subTitle": "ВЛАСТИ ГОРОДА КИЕВА!<br>НЕ ЗАБИРАЙТЕ ЖИЛЬЕ У УКРАИНСКИХ БЕЖЕНЦЕВ!<br>НЕ КОПИРУЙТЕ РОССИЙСКИХ ЧИНОВНИКОВ!",
+		"text": "Власти Киева обратились в суд, чтобы выселить квартиры двух беженцев от войны в Украине. Власти Киева выселяют нас из квартиры, потому что мы не проживаем в Киеве. Мы находимся в Канаде согласно программе помощи украинцам во время войны. Мы не хотели уезжать из Украины. Мы спасали беременную дочь. Дочь видела зверства российских военных в городе Буча под Киевом…",
+		"image": "/messages/img/17.jpg"
+	},
+	"sk": {
+		"title": "Ako sa zrodil nápad na knihu Putinov zoznam:",
+		"subTitle": "KYJEVSKÉ MESTSKÉ ÚRADY!<br>NEBERTE UKRAJINSKÝM UTEČENCOM BÝVANIE!<br>NEKOPÍRUJTE RUSKÝCH ÚRADNÍKOV!",
+		"text": "Kyjevské úrady sa obrátili na súd, aby vysťahovali dvoch utečencov pred vojnou na Ukrajine. Kyjevské úrady nás vysťahujú z nášho bytu, pretože nemáme trvalý pobyt v Kyjeve. Sme v Kanade v rámci programu pomoci Ukrajincom počas vojny. Nechceli sme odísť z Ukrajiny. Zachraňovali sme našu tehotnú dcéru. Moja dcéra videla zverstvá ruskej armády v meste Bucha pri Kyjeve.",
+		"image": "/messages/img/18.jpg"
+	},
+	"es": {
+		"id": 19,
+		"title": "Cómo nació la idea del libro La lista de Putin:",
+		"subTitle": "¡AUTORIDADES MUNICIPALES DE KIEV!<br>¡NO QUITEN LA VIVIENDA A LOS REFUGIADOS UCRANIANOS!<br>¡NO COPIEN A LOS FUNCIONARIOS RUSOS!",
+		"text": "Las autoridades de Kiev han acudido a los tribunales para desalojar a dos refugiados de la guerra de Ucrania. Las autoridades de Kiev nos están desalojando de nuestro apartamento porque no residimos en Kiev. Estamos en Canadá en el marco de un programa de ayuda a los ucranianos durante la guerra. No queríamos abandonar Ucrania. Estábamos salvando a nuestra hija embarazada. Mi hija vio las atrocidades de los militares rusos en la ciudad de Bucha, cerca de Kiev…",
+		"image": "/messages/img/19.jpg"
+	},
+	"sv": {
+		"id": 20,
+		"title": "Hur idén till boken Putin's List föddes:",
+		"subTitle": "KYIVS STADSMYNDIGHETER!<br>TA INTE BORT BOSTÄDER FRÅN UKRAINSKA FLYKTINGAR!<br>KOPIERA INTE RYSKA TJÄNSTEMÄN!",
+		"text": "Myndigheterna i Kiev har gått till domstol för att vräka två flyktingar från kriget i Ukraina. Myndigheterna i Kiev vräker oss från vår lägenhet eftersom vi inte är bosatta i Kiev. Vi befinner oss i Kanada inom ramen för ett program för att hjälpa ukrainare under kriget. Vi ville inte lämna Ukraina. Vi räddade vår gravida dotter. Min dotter såg den ryska militärens grymheter i staden Bucha nära Kiev…",
+		"image": "/messages/img/20.jpg"
+	}
+}

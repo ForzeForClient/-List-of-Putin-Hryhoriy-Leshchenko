@@ -10,6 +10,7 @@ import AdditionalBlock from "../AdditionalBlock/AdditionalBlock";
 import Footer from "../Footer/Footer";
 import BioPage from "../BioPage/BioPage";
 import Anotation from "../Anotation/Anotation";
+import MessagePage from "../MessagePage/MessagePage";
 
 import { Routes, Route } from "react-router-dom";
 import { useState, useEffect } from "react"
@@ -40,6 +41,7 @@ const App = () => {
 					<Route path="/contacts" element={<Contacts />} />
 					<Route path="/biography/:lang" element={<BioPage />} />
 					<Route path="/anotation" element={<Anotation />} />
+					<Route path="/message/:part/:lang" element={<MessagePage />} />
 				</Routes>
 				<AdditionalBlock info={{ blog, books }} />
 			</main>

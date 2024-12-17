@@ -1,7 +1,8 @@
-.HowWasBorn{
+.letter-page{
 	h2{
 		font-size: 24px;
 		text-align: center;
+		margin-top: 40px;
 	}
 
 	.subtitle{
@@ -10,16 +11,21 @@
 		text-align: center;
 		margin-bottom: 30px;
 	}
-
-	.HowWasBorn__wrapper{
-		img{
-			width: 100%;
-		}
+	p{
+		font-size: 18px;
+		font-weight: 400;
+	}
+	img{
+		width: 100%;
+		height: auto;
+		max-width: 420px;
+		display: block;
+		margin: 0 auto;
 	}
 }
 
 @media all and (max-width: 480px) {
-	.HowWasBorn{
+	.letter-page{
 		h2{
 			font-size: 22px;
 			text-align: center;
