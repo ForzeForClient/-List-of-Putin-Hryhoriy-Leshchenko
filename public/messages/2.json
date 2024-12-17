@@ -1,0 +1,122 @@
+{
+	"uk": {
+		"id": 1,
+		"title": "ВЛАДА КИЄВА МСТИТЬ ПИСЬМЕННИКУ ЗА КНИГИ ПРО КОРУПЦІЮ. ПОМСТА ЗАМАСКОВАНА ПІД ВИСЕЛЕННЯ АВТОРА З КВАРТИРИ",
+		"image": "/messages/img/1.jpg",
+		"text": "Я і моя дружина перебуваємо в Канаді. Канада надає допомогу українцям під час війни Росії проти України. Війна Росії проти України – це найбільша війна в Європі після Другої світової війни.\nЧиновники Києва не хочуть воювати з ворогом на фронті.\nПід час війни чиновники Києва воюють з хворими пенсіонерами…"
+	},
+	"en": {
+		"id": 2,
+		"title": "KYIV AUTHORITIES TAKE REVENGE ON A WRITER FOR HIS BOOKS ABOUT CORRUPTION. REVENGE DISGUISED AS EVICTION OF THE AUTHOR FROM HIS APARTMENT",
+		"text": "My wife and I are in Canada. Canada is providing assistance to Ukrainians during Russia's war against Ukraine. Russia's war against Ukraine is the biggest war in Europe since World War II.\nKyiv officials do not want to fight the enemy at the front.\nDuring the war, Kyiv officials are fighting with sick retirees…",
+		"image": "/messages/img/2.jpg"
+	},
+	"arab": {
+		"id": 3,
+		"title": "أنا وزوجتي في كندا. تقدم كندا المساعدة للأوكرانيين خلال حرب روسيا ضد أوكرانيا. حرب روسيا ضد أوكرانيا هي أكبر حرب في أوروبا منذ الحرب العالمية الثانية.",
+		"image": "/messages/img/3.jpg",
+		"text": "أنا وزوجتي في كندا. تقدم كندا المساعدة للأوكرانيين خلال حرب روسيا ضد أوكرانيا. حرب روسيا ضد أوكرانيا هي أكبر حرب في أوروبا منذ الحرب العالمية الثانية.\nلا يريد مسؤولو كييف محاربة العدو في الجبهة.\nخلال الحرب، يقاتل المسؤولون في كييف مع المتقاعدين المرضى…"
+	},
+	"bg": {
+		"id": 4,
+		"title": "КИЕВСКИТЕ ВЛАСТИ ОТМЪЩАВАТ НА ПИСАТЕЛ ЗАРАДИ КНИГИТЕ МУ ЗА КОРУПЦИЯТА. ОТМЪЩЕНИЕТО Е ПРИКРИТО КАТО ИЗСЕЛВАНЕ ОТ АПАРТАМЕНТА НА АВТОРА",
+		"image": "/messages/img/4.jpg",
+		"text": "Със съпругата ми сме в Канада. Канада оказва помощ на украинците по време на войната на Русия срещу Украйна. Войната на Русия срещу Украйна е най-голямата война в Европа след Втората световна война.\nОфициалните лица в Киев не искат да се борят с врага на фронта.\nПо време на войната киевските чиновници се сражават с болни пенсионери…"
+	},
+	"zh": {
+		"id": 5,
+		"title": "基辅当局报复一位作家的贪污著作",
+		"image": "/messages/img/5.jpg",
+		"text": "我和我的妻子在加拿大。在俄罗斯对乌克兰的战争中，加拿大正在向乌克兰人提供援助。俄罗斯对乌克兰的战争是自第二次世界大战以来，欧洲最大的战争。\n基辅官员不想在前线与敌人作战。\n在战争期间，基辅官员与生病的退休金领取者战斗。"
+	},
+	"cz": {
+		"id": 6,
+		"title": "KYJEVSKÉ ÚŘADY SE MSTÍ SPISOVATELI ZA JEHO KNIHY O KORUPCI. POMSTA SE SKRÝVÁ ZA VYSTĚHOVÁNÍ Z AUTOROVA BYTU.",
+		"image": "/messages/img/6.jpg",
+		"text": "S manželkou jsme v Kanadě. Kanada poskytuje pomoc Ukrajincom během ruské války proti Ukrajině. Válka Ruska proti Ukrajině je největší válkou v Evropě od druhé světové války.\nKyjevští představitelé nechtějí bojovat s nepřítelem na frontě.\nKyjevští úředníci během války bojují s nemocnými důchodci…"
+	},
+	"fi": {
+		"id": 7,
+		"title": "KYIVIN VIRANOMAISET KOSTAVAT KIRJAILIJALLE HÄNEN KORRUPTIOTA KÄSITTELEVIEN KIRJOJENSA VUOKSI. KOSTO NAAMIOIDAAN KIRJAILIJAN ASUNNOSTA HÄÄTÖÖN.",
+		"image": "/messages/img/7.jpg",
+		"text": "Vaimoni ja minä olemme Kanadassa. Kanada antaa apua ukrainalaisille Venäjän Ukrainaa vastaan käymän sodan aikana. Venäjän sota Ukrainaa vastaan on suurin sota Euroopassa sitten toisen maailmansodan.\nKiovan viranomaiset eivät halua taistella vihollista vastaan rintamalla.\nSodan aikana Kiovan virkamiehet taistelevat sairaiden eläkeläisten kanssa…"
+	},
+	"fr": {
+		"id": 8,
+		"title": "LES AUTORITÉS DE KYIV SE VENGENT D'UN ÉCRIVAIN POUR SES LIVRES SUR LA CORRUPTION. UNE VENGEANCE DÉGUISÉE EN EXPULSION DE L'APPARTEMENT DE L'AUTEUR",
+		"image": "/messages/img/8.jpg",
+		"text": "Ma femme et moi sommes au Canada. Le Canada fournit une assistance aux Ukrainiens pendant la guerre de la Russie contre l'Ukraine. La guerre de la Russie contre l'Ukraine est la plus grande guerre en Europe depuis la Seconde Guerre mondiale.\nLes autorités de Kiev ne veulent pas combattre l'ennemi sur le front.\nPendant la guerre, les fonctionnaires de Kiev se battent avec les retraités malades…"
+	},
+	"de": {
+		"id": 9,
+		"title": "KIEWER BEHÖRDEN RÄCHEN SICH AN EINEM SCHRIFTSTELLER FÜR SEINE BÜCHER ÜBER KORRUPTION. RACHE GETARNT ALS AUSZUG AUS DER WOHNUNG DES AUTORS",
+		"image": "/messages/img/9.jpeg",
+		"text": "Meine Frau und ich sind in Kanada. Kanada hilft den Ukrainern während des Krieges Russlands gegen die Ukraine. Der Krieg Russlands gegen die Ukraine ist der größte Krieg in Europa seit dem Zweiten Weltkrieg.\nKiewer Beamte wollen den Feind nicht an der Front bekämpfen.\nWährend des Krieges kämpfen die Kiewer Beamten mit kranken Rentnern…"
+	},
+	"hu": {
+		"id": 10,
+		"title": "KIEWER BEHÖRDEN RÄCHEN SICH AN EINEM SCHRIFTSTELLER FÜR SEINE BÜCHER ÜBER KORRUPTION. RACHE GETARNT ALS AUSZUG AUS DER WOHNUNG DES AUTORS",
+		"text": "Meine Frau und ich sind in Kanada. Kanada hilft den Ukrainern während des Krieges Russlands gegen die Ukraine. Der Krieg Russlands gegen die Ukraine ist der größte Krieg in Europa seit dem Zweiten Weltkrieg.\nKiewer Beamte wollen den Feind nicht an der Front bekämpfen.\nWährend des Krieges kämpfen die Kiewer Beamten mit kranken Rentnern…",
+		"image": "/messages/img/10.jpg"
+	},
+	"it": {
+		"id": 11,
+		"title": "LE AUTORITÀ DI KIEV SI VENDICANO DI UNO SCRITTORE PER I SUOI LIBRI SULLA CORRUZIONE. VENDETTA MASCHERATA DA SFRATTO DALL'APPARTAMENTO DELL'AUTORE",
+		"image": "/messages/img/11.jpg",
+		"text": "Io e mia moglie siamo in Canada. Il Canada sta fornendo assistenza agli ucraini durante la guerra della Russia contro l'Ucraina. La guerra della Russia contro l'Ucraina è la più grande guerra in Europa dalla Seconda Guerra Mondiale.\nI funzionari di Kiev non vogliono combattere il nemico al fronte.\nDurante la guerra, i funzionari di Kiev stanno combattendo con i pensionati malati…"
+	},
+	"ja": {
+		"id": 12,
+		"title": "キエフ当局、汚職に関する著書で作家に復讐。",
+		"image": "/messages/img/12.jpg",
+		"text": "妻と私はカナダにいます。カナダはロシアの対ウクライナ戦争の間、ウクライナ人に援助を提供しています。ロシアの対ウクライナ戦争は、第二次世界大戦以来、ヨーロッパで最大の戦争である。\nキエフの役人は前線で敵と戦いたがらない。\n戦争中、キエフ当局は病気の年金受給者と戦っている。"
+	},
+	"la": {
+		"id": 13,
+		"title": "KIJEVAS VARASIESTĀDES ATRIEBJAS RAKSTNIEKAM PAR VIŅA GRĀMATĀM PAR KORUPCIJU. ATRIEBĪBA MASKĒJAS KĀ IZLIKŠANA NO AUTORA DZĪVOKĻA.",
+		"text": "Es un mana sieva esam Kanādā. Kanāda sniedz palīdzību ukraiņiem Krievijas kara laikā pret Ukrainu. Krievijas karš pret Ukrainu ir lielākais karš Eiropā kopš Otrā pasaules kara.\nKijevas amatpersonas nevēlas cīnīties ar ienaidnieku frontē.\nKijevas amatpersonas kara laikā cīnās ar slimiem pensionāriem…",
+		"image": "/messages/img/13.jpeg"
+	},
+	"lt": {
+		"id": 14,
+		"title": "KIJEVO VALDŽIA KERŠIJA RAŠYTOJUI UŽ JO KNYGAS APIE KORUPCIJĄ. KERŠTAS UŽMASKUOTAS KAIP IŠKELDINIMAS IŠ AUTORIAUS BUTO",
+		"image": "/messages/img/14.jpg",
+		"text": "Aš ir mano žmona esame Kanadoje. Kanada teikia pagalbą ukrainiečiams Rusijos karo prieš Ukrainą metu. Rusijos karas prieš Ukrainą yra didžiausias karas Europoje nuo Antrojo pasaulinio karo.\nKijevo pareigūnai nenori kovoti su priešu fronte.\nPer karą Kijevo pareigūnai kovoja su ligoniais pensininkais…"
+	},
+	"pl": {
+		"id": 15,
+		"title": "WŁADZE KIJOWA MSAJĄ ZEMSTĘ NA PISARZU ZA JEGO KSIĄŻKI O KORUPCJI. ZEMSTA POD MASĄ EKSPOZYCJI AUTORA Z MIESZKANIA",
+		"image": "/messages/img/15.jpg",
+		"text": "Moja żona i ja jesteśmy w Kanadzie. Kanada pomaga Ukraińcom podczas wojny Rosji przeciwko Ukrainie. Wojna Rosji przeciwko Ukrainie to największa wojna w Europie po drugiej wojnie światowej.\nUrzędnicy kijowscy nie chcą walczyć z wrogiem na froncie.\nPodczas wojny urzędnicy kijowscy walczą z chorymi emerytami…"
+	},
+	"ro": {
+		"id": 16,
+		"title": "AUTORITĂȚILE DIN KIIV SE RĂZBUNĂ PE UN SCRIITOR PENTRU CĂRȚILE SALE DESPRE CORUPȚIE. RĂZBUNARE MAȘCATĂ CA EXTERIORUL DIN APARTAMENTUL AUTORULUI",
+		"image": "/messages/img/16.jpeg",
+		"text": "Eu și soția mea suntem în Canada. Canada oferă ajutor ucrainenilor în timpul războiului Rusiei împotriva Ucrainei. Războiul Rusiei împotriva Ucrainei este cel mai mare război din Europa de la al Doilea Război Mondial.\nAutoritățile din Kiev nu vor să lupte cu dușmanul pe front.\nÎn timpul războiului, autoritățile din Kiev se luptă cu pensionarii bolnavi…"
+	},
+	"ru": {
+		"id": 17,
+		"title": "ВЛАСТИ КИЕВА МСТЯТ ПИСАТЕЛЮ ЗА КНИГИ О КОРРУПЦИИ. МЕСТЬ ЗАМАСКИРОВАНА ПОД ВЫСЕЛЕНИЕ АВТОРА ИЗ КВАРТИРЫ",
+		"text": "Я и моя жена находимся в Канаде. Канада оказывает помощь украинцам во время войны России против Украины. Война России против Украины - это самая большая война в Европе после Второй мировой войны.\nЧиновники Киева не хотят воевать с врагом на фронте.\nВо время войны чиновники Киева воюют с больными пенсионерами…",
+		"image": "/messages/img/17.jpg"
+	},
+	"sk": {
+		"id": 18,
+		"title": "KYJEVSKÉ ÚRADY SA MSTIA SPISOVATEĽOVI ZA JEHO KNIHY O KORUPCII. POMSTA SA MASKUJE AKO VYSŤAHOVANIE Z AUTOROVHO BYTU",
+		"text": "Moja manželka a ja sme v Kanade. Kanada poskytuje pomoc Ukrajincom počas vojny Ruska proti Ukrajine. Vojna Ruska proti Ukrajine je najväčšou vojnou v Európe od druhej svetovej vojny.\nKyjevskí predstavitelia nechcú bojovať s nepriateľom na fronte.\nPočas vojny kyjevskí úradníci bojujú s chorými dôchodcami…",
+		"image": "/messages/img/18.jpg"
+	},
+	"es": {
+		"id": 19,
+		"title": "LAS AUTORIDADES DE KIEV SE VENGAN DE UN ESCRITOR POR SUS LIBROS SOBRE LA CORRUPCIÓN. VENGANZA ENMASCARADA COMO EL DESALOJO DEL AUTOR DE SU APARTAMENTO",
+		"image": "/messages/img/19.jpg",
+		"text": "Mi esposa y yo estamos en Canadá. Canadá está proporcionando asistencia a los ucranianos durante la guerra de Rusia contra Ucrania. La guerra de Rusia contra Ucrania es la guerra más grande en Europa desde la Segunda Guerra Mundial.\nLas autoridades de Kiev no quieren luchar contra el enemigo en el frente.\nDurante la guerra, los funcionarios de Kiev luchan contra los pensionistas enfermos…"
+	},
+	"sv": {
+		"id": 20,
+		"title": "MYNDIGHETERNA I KYIV HÄMNAS PÅ EN FÖRFATTARE FÖR HANS BÖCKER OM KORRUPTION. HÄMNDEN FÖKLÄDD TILL VRÄKNING FRÅN FÖRFATTARENS LÄGENHET",
+		"text": "Min fru och jag befinner oss i Kanada. Kanada ger stöd till ukrainare under Rysslands krig mot Ukraina. Rysslands krig mot Ukraina är det största kriget i Europa sedan andra världskriget.\nTjänstemännen i Kiev vill inte kämpa mot fienden vid fronten.\nUnder kriget slåss tjänstemännen i Kiev med sjuka pensionärer…",
+		"image": "/messages/img/20.jpg"
+	}
+}

@@ -24,7 +24,10 @@ const MessagePage = () => {
 						<div className="letter-page__wrapper">
 							<img src={letter.image} alt="image" />
 							<h2>{letter.title}</h2>
-							<p className="subtitle" dangerouslySetInnerHTML={{ __html: letter.subTitle }} />
+							{
+								letter.subTitle &&
+								<p className="subtitle" dangerouslySetInnerHTML={{ __html: letter.subTitle }} />
+							}
 							<p dangerouslySetInnerHTML={{ __html: letter.text }} />
 						</div>
 					}
